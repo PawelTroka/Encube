@@ -12,11 +12,11 @@ After the first round, the player chooses a number. (Any of 1 to n regardless of
 Dice from this number are transferred from a pool of dice thrown into a pool of opportunities for kicks. A player can throw as many times as a chance for kicks. After each throw one chance of passing from a pool of opportunities to the pool as a result, while the dice with the expected number, go to the pool of dice thrown into a pool of opportunities.
 5. The game is played until all the cubes will be in the pot or in the pot opportunities as a result (the player wins), or until the prize opportunities will be empty (the player loses)
 
-##Contributors
+## Contributors
 
 * Pawel Troka (architecture & code)
 * Kordian Czyzewski (game design & rules)
 
-##Origins
+## Origins
 
 The game was created after the course of Statistical Physics, specializing in Applied Physics, majoring in Technical Physics at the Faculty of Technical Physics and Applied Mathematics at the university - Gdansk University of Technology. Inspired by issues of statistics and probability, and after encouraging to create a game using probability by Dr. Matthew Zawadzki of the Cathedral of Atomic, Molecular and Optical of Gdansk University of Technology one of the students - Kordian Czyżewski created the game initially called Encube, his colleague who liked to program picked up on the idea and I programmed this game in .NET, C# using WinForms.
